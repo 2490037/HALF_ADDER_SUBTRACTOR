@@ -1,8 +1,7 @@
-### NAME:PRANAV S
-### REG NO:24900037
-### EXPERIMENT: HALF_ADDER_SUBTRACTOR
+### NAME: PRANAV S
+### REG NO: 24900037
+### EXPERIMENT 3 : HALF ADDER SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
 
